@@ -7,4 +7,4 @@ title: Заметки
 
 ## Разделы
 
-- [SRE](/notes/sre/)
+- [SRE](./notes/sre/)
