@@ -1,7 +1,10 @@
 ---
-title: SRE
+layout: page
+title: Заметки
 ---
 
-# SRE
+# Заметки
+
+## Разделы
 
 - [SRE](/notes/sre/)

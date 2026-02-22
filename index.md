@@ -1,7 +1,8 @@
 ---
+layout: home
 title: Главная
 ---
 
 # Мои заметки
 
-- [Заметки](/notes/)
+- [Заметки]({{ "/notes/" | relative_url }})
