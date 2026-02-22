@@ -3,7 +3,6 @@ layout: home
 title: Главная
 ---
 
-# Разделы
 
 - [Golang](./notes/golang/)
 
