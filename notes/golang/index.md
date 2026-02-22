@@ -11,5 +11,7 @@ layout: page
 
 - [Работа с SQL в Go](./sql/)
 
+- [Apache Kafka](./kafka/)
+
 - [Concurrency. Основы конкурентности](./concurrency-basics/)
 - [Concurrency. Шаблоны конкурентного программирования в Go](./concurrency-patterns/)
