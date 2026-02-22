@@ -33,7 +33,6 @@
 - [SRE для Go разработчика](./sre/)
 
 
-
 ---
 
-- [System Design](./system-design/)
+- [System Design: Проектирование высоконагруженных систем](./system-design/)
