@@ -12,4 +12,4 @@ title: Главная
 
 - [PostgreSQL](./notes/postgres/)
 
-- [SRE](./notes/sre)
+- [Путь SRE](./notes/sre)
