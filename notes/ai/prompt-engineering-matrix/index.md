@@ -1,5 +1,4 @@
 
----
 
 |Novice|Intermediate|Advanced|
 |---|---|---|
