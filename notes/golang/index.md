@@ -8,3 +8,5 @@ layout: page
 - [8 лучших практик написания безопасного кода на Go](./security/)
 - [Тестирование в Go](./testing/)
 - [Работа с SQL в Go](./sql/)
+
+- [Concurrency. Основы](./concurrency-basics/)
