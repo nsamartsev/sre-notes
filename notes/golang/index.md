@@ -23,6 +23,7 @@
 
 - [Concurrency. Основы конкурентности](./concurrency-basics/)
 - [Concurrency. Шаблоны конкурентного программирования в Go](./concurrency-patterns/)
+- [Concurrency. Конкурентность, планировщик и межпроцессное взаимодействие в Go](./concurrency-channels/)
 
 ---
 
