@@ -4,4 +4,4 @@ title: SRE
 
 # SRE
 
-- [SRE](/sre/)
+- [SRE](/notes/sre/)
