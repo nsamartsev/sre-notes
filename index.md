@@ -8,4 +8,4 @@ title: Главная
 
 - [Путь SRE](./notes/sre)
 
-- [GenAI Essentials: Полное руководство AI](./notes/genai/)
+- [Материалы по AI](./notes/ai/)
