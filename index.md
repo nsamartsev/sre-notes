@@ -8,3 +8,4 @@ title: Главная
 - [SRE](./notes/sre)
 - [Golang](./notes/golang/)
 - [K8s](./notes/k8s/)
+- [gRPC](./notes/gRPC/)
