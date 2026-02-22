@@ -5,4 +5,4 @@ title: Golang
 
 # Разделы
 
-- [Основы Go](./notes/golang/basics/)
+- [Основы Go](./basics/)
