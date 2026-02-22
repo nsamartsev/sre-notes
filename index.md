@@ -8,4 +8,4 @@ title: Главная
 
 - [Путь SRE](./notes/sre)
 
-- [Материалы по AI](./notes/AI/)
+- [Материалы по AI](./notes/ai/)
