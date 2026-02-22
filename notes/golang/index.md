@@ -6,7 +6,9 @@ layout: page
 
 - [Основы Go](./basics/)
 - [8 лучших практик написания безопасного кода на Go](./security/)
+
 - [Тестирование в Go](./testing/)
+
 - [Работа с SQL в Go](./sql/)
 
 - [Concurrency. Основы конкурентности](./concurrency-basics/)
