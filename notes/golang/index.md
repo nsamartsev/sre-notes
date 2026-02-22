@@ -9,4 +9,5 @@ layout: page
 - [Тестирование в Go](./testing/)
 - [Работа с SQL в Go](./sql/)
 
-- [Concurrency. Основы](./concurrency-basics/)
+- [Concurrency. Основы конкурентности](./concurrency-basics/)
+- [Concurrency. Шаблоны конкурентного программирования в Go](./concurrency-patterns/)
