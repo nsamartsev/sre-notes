@@ -11,3 +11,5 @@ title: Главная
 - [Материалы по AI](./notes/ai/)
 
 - [Основы и архитектура Amazon Web Services](./notes/aws/)
+
+- [Основы Keycloak: Полное руководство](./notes/keycloak/)
