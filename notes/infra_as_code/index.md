@@ -10,7 +10,7 @@
 
 - [OpenTofu](./opentofu)
 
-- [Terragrunt](./terragrunt)
+- [Terragrunt — Оболочка для DRY Terraform](./terragrunt)
 
 
 
