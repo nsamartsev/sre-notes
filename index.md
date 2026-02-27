@@ -8,7 +8,7 @@ title: Главная
 
 - [Путь SRE](./notes/sre)
 
-- [Terraform и OpenTofu](./notes/terraform/)
+- [Инфраструктура как код](./notes/infra_as_code/)
 
 - [Материалы по AI](./notes/ai/)
 
