@@ -4,7 +4,14 @@
 
 ## Инфраструктура как код
 
+- [Мутабельная vs. Иммутабельная инфраструктура](./basics/)
+
 - [Terraform](./terraform/)
 
-- [OpenTofu](./notes/sre)
+- [OpenTofu](./opentofu)
+
+- [Terragrunt](./terragrunt)
+
+
+
 
